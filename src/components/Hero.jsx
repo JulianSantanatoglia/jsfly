@@ -33,7 +33,7 @@ const Hero = () => {
             </button>
             <button
               onClick={() => document.getElementById('contact').scrollIntoView({ behavior: 'smooth' })}
-              className="bg-white/20 hover:bg-white/30 text-white font-medium py-3 px-8 rounded-lg transition-colors duration-200 text-lg backdrop-blur-sm"
+              className="btn-secondary text-lg"
             >
               Contactar
             </button>

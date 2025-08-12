@@ -11,7 +11,7 @@ const Footer = () => {
                   <path d="M10 2a8 8 0 100 16 8 8 0 000-16zM8 12a2 2 0 114 0 2 2 0 01-4 0z"/>
                 </svg>
               </div>
-              <span className="text-xl font-bold">JSFly</span>
+              <span className="text-xl font-bold">jsgliafly</span>
             </div>
             <p className="text-gray-300 max-w-sm">
               Capturando momentos únicos desde las alturas. 
@@ -62,7 +62,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Contacto</h3>
             <div className="space-y-2 text-gray-300">
-              <p>contacto@jsfly.com</p>
+              <p>contacto@jsgliafly.com</p>
               <p>+34 600 123 456</p>
               <p>Almería, España</p>
             </div>
@@ -72,7 +72,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-300 text-sm">
-            © 2024 JSFly. Todos los derechos reservados.
+            © 2024 jsgliafly. Todos los derechos reservados.
           </p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200 text-sm">
